@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Build artifacts
+compile_commands.json
+build/
+
+# ccls cache
+.ccls-cache/
+
+# Meson subprojects
+subprojects/
