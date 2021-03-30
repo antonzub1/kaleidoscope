@@ -1,2 +1,2 @@
 # kaleidoscope
-My personal attempt to implement LLVM Kaleidoscopeprogramming  language
+My personal attempt to implement LLVM Kaleidoscope programming language
